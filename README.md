@@ -316,7 +316,7 @@ Future work could include:
 - Remaining Useful Life prediction using longitudinal machine histories
 
 ```
-
+```
 ---
 
 ## 👤 Author
