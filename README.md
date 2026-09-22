@@ -319,7 +319,7 @@ Future work could include:
 ```
 ---
 
-## 👤 Author
+## 👤 Shrouk
 
 Machine Learning Portfolio Project
 
